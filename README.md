@@ -1,6 +1,6 @@
 # Data Repository
 
-Data files for the manuscript [https://arxiv.org/abs/2302.07910][Elucidating the Role of Dimensionality on the Electronic Structure of the van der Waals Antiferromagnet NiPS3_,Michael F. DiScala, Daniel Staros, Alberto de la Torre, Annette Lopez, Deniz Wong, Christian Schulz,
+Data files for the manuscript [ https://arxiv.org/abs/2302.07910 ][Elucidating the Role of Dimensionality on the Electronic Structure of the van der Waals Antiferromagnet NiPS3_,Michael F. DiScala, Daniel Staros, Alberto de la Torre, Annette Lopez, Deniz Wong, Christian Schulz,
 Maciej Barkowiak, Valentina Bisogni, Jonathan Pelliciari, Brenda Rubenstein, Kemp W. Plumb. arXiv:2302.07910(2023)]
 
 
