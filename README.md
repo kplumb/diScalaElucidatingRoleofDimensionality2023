@@ -6,6 +6,10 @@ Maciej Barkowiak, Valentina Bisogni, Jonathan Pelliciari, Brenda Rubenstein, Kem
 
 
 
+[![DOI](https://zenodo.org/badge/718702030.svg)](https://zenodo.org/doi/10.5281/zenodo.10125571)
+
+
+
 # How to cite
 
 If this data is used, please cite, _Elucidating the Role of Dimensionality on the Electronic Structure of the van der Waals Antiferromagnet NiPS3_, nMichael F. DiScala, Daniel Staros, Alberto de la Torre, Annette Lopez, Deniz Wong, Christian Schulz,
